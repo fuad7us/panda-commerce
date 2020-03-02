@@ -24,11 +24,11 @@
     cursor: pointer;
 }
 
-.categories {
+.categories, .shoes {
     padding: 0rem 2rem;
 }
 
-.categories h2 {
+.categories h3, .shoes h3 {
     margin-bottom: 50px;
 }
 .cat1, .cat2, .cat3 {    
@@ -59,4 +59,5 @@
 .card {
     border: none;
     box-shadow: 5px 5px 10px lightgray;
+    text-align: center;
 }
